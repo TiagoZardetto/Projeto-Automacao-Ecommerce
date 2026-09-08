@@ -1,4 +1,4 @@
-#QA-Project-Automation 
+# QA-Project-Automation 
 QA Automation project utilizing Cypress!
 
 This repo will be my main QA project about Automation
