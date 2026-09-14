@@ -8,3 +8,7 @@
 
 ## Sobre o Projeto:
 Desenvolver cenários de testes com automações para plataformas E-commerce
+
+## Ferramentas:
+
+## Aprendizados:
