@@ -6,5 +6,5 @@
 - Dominar uma ferramenta de automação
 - Mostrar aplicações de cenários e casos de testes
 
-## Projeto:
-Desenvolver automações para plataformas E-commerce
+## Sobre o Projeto:
+Desenvolver cenários de testes com automações para plataformas E-commerce
