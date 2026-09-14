@@ -1,5 +1,4 @@
 # QA-Automação-Projeto
-QA Automation project utilizing Cypress!
 
 ## Repositório criado para projeto de Automação de Testes e API´s 
 
