@@ -1,6 +1,6 @@
 # QA-Automação-Projeto
 
-## Repositório criado para projeto de Automação de Testes e API´s 
+# Repositório criado para projeto de Automação de Testes e API´s 
 ## Objetivos do projeto: 
 - Desenvolver autonomia em automações de testes
 - Desenvolver autonomia em automações de testes com API
