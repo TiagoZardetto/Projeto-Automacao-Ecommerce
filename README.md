@@ -11,6 +11,8 @@ Utilizando o 'QARena: o playground dos QAs', realizei automações utilizando a 
 
 ## Sobre o Projeto:
 Desenvolver cenários de testes com automações para plataformas E-commerce
+Estruturar Casos de Testes
+Estruturar Casos de Testes automatizados 
 
 ## Ferramentas:
 Playwright
