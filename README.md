@@ -9,7 +9,7 @@ Utilizando o 'QARena: o playground dos QAs', realizei automações utilizando a 
 - Dominar uma ferramenta de automação
 - Mostrar aplicações de cenários e casos de testes
 
-## Sobre o Projeto:
+##🧪 Sobre o Projeto:
 Desenvolver cenários de testes com automações para plataformas E-commerce
 Estruturar Casos de Testes
 Estruturar Casos de Testes automatizados 
