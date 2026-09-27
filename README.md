@@ -14,7 +14,7 @@ Desenvolver cenários de testes com automações para plataformas E-commerce
 Estruturar Casos de Testes
 Estruturar Casos de Testes automatizados 
 
-##💼 Ferramentas:
+## 🛠️ Ferramentas:
 Playwright
 
 ## Aprendizados:
