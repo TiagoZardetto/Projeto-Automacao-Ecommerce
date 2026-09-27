@@ -1,6 +1,6 @@
-# Repositório criado para projeto de Automação de Testes e API´s 
+# 🤖 Repositório criado para projeto de Automação de Testes e API´s 
 
-## 📃Descrição:
+## 📃 Descrição:
 Utilizando o 'QARena: o playground dos QAs', realizei automações utilizando a ferramenta Playwright.
 
 ## ✅ Objetivos do projeto: 
@@ -17,4 +17,4 @@ Estruturar Casos de Testes automatizados
 ## 🛠️ Ferramentas:
 Playwright
 
-## Aprendizados:
+## ✍️ Aprendizados:
